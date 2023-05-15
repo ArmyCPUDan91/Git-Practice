@@ -7,3 +7,6 @@ ctrl -a # highlight everything
 ctrl -z # undos everything
 
 -- add -- comitt -- pull -- push --
+
+Git is used for version control!
+Git is important for your fututure work experience
