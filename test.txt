@@ -11,4 +11,4 @@ ctrl -z # undos everything
 Git is used for version control!
 Git is important for your fututure work experience
 
-This is a chnage in my personal branch
+This is a chnage in my personal branch ok dude!
